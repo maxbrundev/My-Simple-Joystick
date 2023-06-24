@@ -1,7 +1,7 @@
 # My-Simple-Joystick
 My Simple Joystick is an Input system that work both with touch or mouse inputs and that can be used with or without provided Joystick UI with various animations options!
 
-🔄 SOON AVAILABLE ON THE UNITY ASSET STORE [LINK INCOMING]
+🔄 AVAILABLE ON THE UNITY ASSET STORE SOON [LINK INCOMING]
 
 ![](Screenshots/MySimpleJoystick.png)
 
@@ -13,7 +13,7 @@ Start easily your project based on Joystick control without worrying about how t
 
 Demo Scene with set up example and basic third person controller are provided.
 
-Drag an Drop the prefab and start your awesome mobile projet! 🚀
+Drag an Drop the prefab and start your awesome mobile project! 🚀
 
 ![](Screenshots/MySimpleJoystick_details.png)
 
